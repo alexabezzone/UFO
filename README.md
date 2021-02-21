@@ -9,7 +9,7 @@ Dana is a Data Analyst who was assigned to create a website and write a report a
 
 After creating the JavaScript and HTML files, users can successfully filter the UFO data table to specify which data they would like to see. The filters were broken down into five categories. The five categories are date, city, state, country, and shape. Once a user enters the desired information into the filter fields, the results pop up in a table form. Users also have the option to decide which filters they would like to use to sort the UFO data. Please see the image below for a visualization of the filter fields and table. 
 
-![UFO](/Users/alexabezzone/Desktop/UFO.png?raw=true "UFO")
+![alt text](/Users/alexabezzone/Desktop/UFO.png?raw=true "UFO")
 
 ## Summary of Analysis
 
